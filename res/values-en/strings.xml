@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="body">body</string>
+    <string name="something">something</string>
+    <string name="url">URL</string>
+    <string name="show_url">show URL</string>
+    <string name="show">show</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="Moviename">Moviename</string>
+    <string name="add">add</string>
+    
+</resources>
